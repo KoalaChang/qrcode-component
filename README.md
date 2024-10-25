@@ -18,10 +18,14 @@ This challenge from Frontend Mentor includes HTML and CSS skills. It's a QR code
 ### Screenshot
 
 ![](./截圖%202024-10-25%20上午10.31.37.png)
+Website in desktop
+
+![](./85A81F73-690B-48BA-8ABF-50FB3DD76737.jpg)
+Website in Mobile
 
 ### Links
 
-- Live Site URL: [https://koalachang.github.io/qrcode-component/](https://koalachang.github.io/qrcode-component/)
+- Live Site URL: [https://qrcode-component-chi.vercel.app](https://qrcode-component-chi.vercel.app)
 
 ### Built with
 
