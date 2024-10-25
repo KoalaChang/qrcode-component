@@ -20,7 +20,8 @@ This challenge from Frontend Mentor includes HTML and CSS skills. It's a QR code
 ![](./截圖%202024-10-25%20上午10.31.37.png)
 Website in desktop
 
-![](./85A81F73-690B-48BA-8ABF-50FB3DD76737.jpg)
+
+<img src="./85A81F73-690B-48BA-8ABF-50FB3DD76737.jpg" width="500" height="auto">
 Website in Mobile
 
 ### Links
